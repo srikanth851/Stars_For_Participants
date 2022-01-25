@@ -1,0 +1,67 @@
+@charset "ISO-8859-1";
+
+body {
+	margin: 0;
+	padding: 70px;
+	padding-top: 0;
+	background-color: #17a2b8;
+	background-image: linear-gradient(to bottom right, #17a2b8, #29a548);
+	height: 100%;
+}
+#backArrow{
+	margin: 30px 0 30px 0;
+	width: 30px;
+	height: 30px;
+}
+.mainContainer {
+}
+
+h1 {
+	color: #15454f;
+}
+
+.selectSubs{
+	margin-right: 50px;
+}
+
+select{
+	width: 150px;
+	height: 90%;
+	
+}
+
+.searchBar {
+	font-size: 20px;
+	width: 500px;
+	height: 65px;
+	margin-bottom: 70px;
+	background-color: #15454f;
+	padding: 13px;
+	border-radius: 15px;
+}
+
+.searchbtn {
+	float: right;
+	margin-right: 20px;
+	border-radius: 10px;
+	background-color: #80ffff;
+}
+
+table {
+	padding: 10px;
+	width: 100%;
+	font-size: 18px;
+	color: white;
+}
+
+td, th{
+	padding: 10px;
+}
+
+th{
+	text-align: center;
+}
+
+.questionTable {
+	min-height: 400px;
+}

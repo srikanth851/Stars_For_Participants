@@ -1,0 +1,75 @@
+@charset "ISO-8859-1";
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #17a2b8;
+	background-color: #ff8040;
+	background-color: #800040;
+	height: 100hv;
+}
+
+.mainContainer{
+	margin-top: 50px;
+}
+
+#takeexam {
+	
+	width: 500px;;
+	background: linear-gradient(to bottom right, #ff8040, #800040);
+}
+
+#takeexamSpan {
+	font-size: 25px;
+	color: white;
+}
+
+h1 {
+	position: relative;
+	color: white;
+	vertical-align: center;
+}
+
+table {
+	text-align: center;
+}
+
+td {
+	padding: 20px;
+}
+
+span {
+	font-weight: bold;
+	font-size: 17px;
+	color: #15454f;
+}
+
+.btn {
+	font-weight: bold;
+	width: 400px;
+	height: 100px;
+	background: linear-gradient(to bottom right, #aae1ff, #ffffff);
+	border-radius: 100px;
+    overflow: hidden;
+    perspective: 1px;
+}
+
+.button {
+	color: dark;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.leftSide {
+	text-align: center;
+}
+
+.rightSide {
+	padding-left: 50px;
+}
+
+#adminIcon {
+	margin: 20px;
+	color: white;
+	font-size: 100px;
+}

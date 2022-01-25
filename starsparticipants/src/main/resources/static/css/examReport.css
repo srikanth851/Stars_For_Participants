@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #17a2b8;
+	background-image: linear-gradient(to bottom right, #17a2b8, #29a548);
+	height: 100vh;
+}
+.mainContainer{
+	font-weight: bold;
+	text-align: center;
+	margin: 70px;
+}
+.score{
+	font-size: 200px;
+	line-height: 150px;
+	color: #9f0000;
+	margin-top: 30px;
+	margin-bottom: 70px;
+}

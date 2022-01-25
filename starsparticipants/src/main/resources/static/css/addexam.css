@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+.form {
+	border: 1px solid #9C9C9C;
+	background-color: #EAEAEA;
+	padding: 40px;
+	padding-bottom: 30px;
+}
+select{
+	width: 100%;	
+}
+td{
+	padding: 10px;
+}
+#submit{
+	width: 100%;
+	padding: 20px;
+	margin-top: 20px;
+}
+#backArrow{
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 30px;
+	height: 30px;
+}
+#backArrow:focus{
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 20px;
+	height: 20px;
+}

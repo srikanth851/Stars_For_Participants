@@ -1,0 +1,53 @@
+@charset "ISO-8859-1";
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #17a2b8;
+	background-color: #29a548;
+	background: linear-gradient(to bottom right, #17a2b8, #29a548);
+	height: 100%;
+}
+
+.mainContainer {
+	margin: 50px;
+}
+
+.questionsBox {
+	margin-top: 20px;
+}
+
+.headingTable {
+	border-radius: 20px;
+	width: 100%;
+}
+
+.timer {
+	padding-right: 70px;
+}
+
+.Q {
+	border-radius: 20px;
+	padding: 10px;
+	background: rgba(252, 252, 252, 0.7);
+}
+
+.Qtable {
+	font-size: 17px;
+	width: 80%;
+}
+
+td, th {
+	width: 50%;
+}
+
+.btn {
+	background-color: #d6aa12;
+	width: 200px;
+	height: 50px;
+}
+
+.rbtn {
+	width: 1em;
+	height: 1em;
+}
